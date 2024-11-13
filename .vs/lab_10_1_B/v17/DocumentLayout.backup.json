@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diane\\source\\repos\\lab_10_1_B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{276AB076-BC46-436E-801B-BAEFD2079E52}|UnitTest\\UnitTest.vcxproj|C:\\Users\\Diane\\source\\repos\\lab_10_1_B\\UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{276AB076-BC46-436E-801B-BAEFD2079E52}|UnitTest\\UnitTest.vcxproj|solutionrelative:UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44182E9-836E-4D6D-9E9E-4723C79093B7}|lab_10_1_B\\lab_10_1_B.vcxproj|C:\\Users\\Diane\\source\\repos\\lab_10_1_B\\lab_10_1_B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E44182E9-836E-4D6D-9E9E-4723C79093B7}|lab_10_1_B\\lab_10_1_B.vcxproj|solutionrelative:lab_10_1_B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest.cpp",
+              "DocumentMoniker": "C:\\Users\\Diane\\source\\repos\\lab_10_1_B\\UnitTest\\UnitTest.cpp",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest.cpp",
+              "ToolTip": "C:\\Users\\Diane\\source\\repos\\lab_10_1_B\\UnitTest\\UnitTest.cpp*",
+              "RelativeToolTip": "UnitTest\\UnitTest.cpp*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwBYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T22:56:41.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Diane\\source\\repos\\lab_10_1_B\\lab_10_1_B\\main.cpp",
+              "RelativeDocumentMoniker": "lab_10_1_B\\main.cpp",
+              "ToolTip": "C:\\Users\\Diane\\source\\repos\\lab_10_1_B\\lab_10_1_B\\main.cpp",
+              "RelativeToolTip": "lab_10_1_B\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T20:36:02.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
